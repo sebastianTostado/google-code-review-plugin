@@ -1,0 +1,8 @@
+{
+  "name": "google-code-review",
+  "description": "Automated PR code review following Google's Engineering Practices",
+  "version": "1.0.0",
+  "author": {
+    "name": "MyFitnessPal"
+  }
+}
