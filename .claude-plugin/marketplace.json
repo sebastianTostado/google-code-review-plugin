@@ -1,0 +1,13 @@
+{
+  "name": "google-code-review-plugin",
+  "owner": {
+    "name": "MyFitnessPal"
+  },
+  "plugins": [
+    {
+      "name": "google-code-review",
+      "source": "./google-code-review",
+      "description": "Automated PR code review following Google's Engineering Practices"
+    }
+  ]
+}
